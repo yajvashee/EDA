@@ -1,0 +1,204 @@
+emp_id,age,gender,department,city,education,experience,salary,satisfaction,attrition
+1,37.0,female,Finance,Lahore,Bachelor,9.5,79692.0,1.0,No
+2,27.0,M,Finance,Peshawar,Master,9.7,74476.0,3.0,No
+3,41.0,Male,Finance,Karachi,Bachelor,9.6,77414.0,3.0,No
+4,43.0,Male,HR,Peshawar,Master,7.3,79300.0,4.0,No
+5,19.0,Male,Marketing,Multan,Bachelor,11.3,85639.0,5.0,No
+6,25.0,M,Engineering,Lahore,High School,10.5,950000.0,5.0,No
+7,36.0,M,Marketing,Multan,High School,13.0,52222.0,2.0,No
+8,150.0,Female,Marketing,Peshawar,Master,5.9,50701.0,5.0,No
+9,35.0,female,Engineering,Karachi,High School,6.3,52667.0,4.0,Yes
+10,,M,Engineering,Karachi,Bachelor,6.1,87223.0,1.0,Yes
+11,42.0,Male,Sales,Multan,Bachelor,11.2,111124.0,5.0,Yes
+12,41.0,F,Sales,Peshawar,High School,14.0,69217.0,1.0,No
+13,36.0,female,HR,Karachi,Bachelor,6.2,850000.0,3.0,No
+14,44.0,Female,HR,Multan,Master,6.3,37400.0,4.0,Yes
+15,39.0,Female,Sales,Karachi,High School,9.3,59174.0,2.0,No
+16,28.0,F,HR,Multan,Master,7.0,66057.0,2.0,No
+17,38.0,male,Marketing,Multan,Master,11.8,69790.0,3.0,No
+18,27.0,Male,Engineering,Karachi,Bachelor,0.0,80965.0,5.0,No
+19,42.0,female,Engineering,Multan,High School,4.7,72206.0,2.0,Yes
+20,35.0,Female,Engineering,Peshawar,Bachelor,4.9,106233.0,4.0,Yes
+21,34.0,M,HR,Peshawar,High School,0.0,63100.0,3.0,No
+22,30.0,Female,Engineering,  lahore  ,Bachelor,4.1,58442.0,1.0,Yes
+23,45.0,M,Marketing,Lahore,PhD,4.3,,4.0,No
+24,34.0,Female,Engineering,Lahore,PhD,7.2,,5.0,Yes
+25,32.0,Female,HR,Islamabad,Master,12.5,89742.0,3.0,Yes
+26,32.0,M,Engineering,Karachi,Bachelor,7.0,82564.0,,Yes
+27,39.0,male,Sales,Peshawar,Master,3.9,76314.0,1.0,No
+28,38.0,M,Marketing,Multan,Master,7.8,119707.0,3.0,Yes
+29,38.0,F,Engineering,Peshawar,Bachelor,12.2,64445.0,3.0,Yes
+30,38.0,female,Engineering,  lahore  ,Bachelor,4.1,131507.0,3.0,No
+31,,M,Marketing,Karachi,High School,4.4,74364.0,2.0,No
+32,32.0,male,Finance,  lahore  ,Bachelor,10.2,48075.0,3.0,No
+33,31.0,female,Marketing,  lahore  ,Bachelor,7.1,81748.0,2.0,Yes
+34,28.0,Male,Finance,  lahore  ,High School,10.6,53094.0,4.0,No
+35,40.0,M,Finance,Peshawar,High School,7.9,61206.0,4.0,No
+36,44.0,male,HR,Karachi,Master,10.8,89926.0,4.0,No
+37,34.0,F,Marketing,  lahore  ,PhD,3.9,93890.0,1.0,Yes
+38,28.0,F,Engineering,Karachi,Bachelor,8.0,64446.0,5.0,No
+39,28.0,Male,HR,Karachi,Master,7.2,104685.0,1.0,No
+40,40.0,female,HR,Karachi,PhD,3.1,108938.0,5.0,Yes
+41,41.0,F,Finance,Peshawar,High School,1.7,115908.0,1.0,Yes
+42,,Male,Finance,Multan,Bachelor,10.7,,3.0,Yes
+43,30.0,female,HR,  lahore  ,Bachelor,6.6,114086.0,1.0,No
+44,37.0,female,Marketing,Peshawar,High School,3.9,32980.0,1.0,Yes
+45,36.0,male,Engineering,Peshawar,Master,7.6,72052.0,4.0,No
+46,37.0,M,Finance,Lahore,Bachelor,12.5,58325.0,4.0,No
+47,,F,HR,Lahore,Bachelor,0.0,82981.0,1.0,No
+48,37.0,F,HR,Peshawar,High School,2.0,65714.0,5.0,No
+49,40.0,M,Marketing,Lahore,High School,4.3,75846.0,2.0,No
+50,36.0,F,Marketing,Karachi,Master,13.8,127054.0,2.0,Yes
+51,37.0,female,Sales,Multan,High School,9.1,75757.0,2.0,No
+52,40.0,M,Engineering,Peshawar,Bachelor,11.1,90345.0,3.0,No
+53,23.0,Female,Sales,Peshawar,Bachelor,3.4,74193.0,1.0,No
+54,32.0,M,Marketing,Peshawar,Bachelor,3.5,81893.0,3.0,No
+55,31.0,Female,Sales,Karachi,Bachelor,9.8,80150.0,2.0,No
+56,30.0,male,Engineering,Multan,Bachelor,8.2,,1.0,Yes
+57,33.0,M,HR,  lahore  ,High School,10.2,109133.0,2.0,No
+58,47.0,female,Marketing,  lahore  ,Bachelor,7.2,121185.0,4.0,No
+59,28.0,M,HR,Peshawar,Master,9.1,87741.0,4.0,No
+60,43.0,F,Finance,Peshawar,Bachelor,8.6,94739.0,2.0,No
+61,22.0,Male,Finance,Islamabad,Bachelor,11.1,51228.0,2.0,No
+62,32.0,female,Sales,Karachi,Master,11.2,77803.0,4.0,No
+63,36.0,Female,Finance,Islamabad,Master,1.5,103507.0,4.0,No
+64,40.0,Female,Marketing,Lahore,High School,0.0,101649.0,5.0,Yes
+65,41.0,male,Marketing,  lahore  ,Bachelor,12.0,85290.0,5.0,No
+66,41.0,male,Sales,Karachi,Bachelor,12.8,,5.0,Yes
+67,32.0,F,Marketing,Multan,Bachelor,3.9,92269.0,5.0,Yes
+68,31.0,Female,Marketing,Islamabad,Master,0.6,110008.0,3.0,No
+69,42.0,female,HR,Islamabad,Bachelor,8.4,87234.0,2.0,No
+70,33.0,M,Sales,Multan,Master,11.7,71108.0,,No
+71,,F,HR,Islamabad,Master,15.2,88396.0,2.0,No
+72,26.0,M,Finance,Multan,Bachelor,10.1,6735.0,4.0,No
+73,,Male,Marketing,Karachi,Master,6.5,,4.0,No
+74,39.0,Female,Sales,Peshawar,Bachelor,4.4,-11210.0,5.0,No
+75,36.0,Male,Finance,  lahore  ,Master,8.0,36913.0,1.0,No
+76,41.0,Female,Finance,Karachi,Bachelor,6.8,91294.0,3.0,No
+77,32.0,male,Sales,Peshawar,Bachelor,3.9,91938.0,2.0,No
+78,36.0,Male,Finance,Multan,Bachelor,16.2,50939.0,5.0,No
+79,40.0,male,HR,Karachi,High School,15.1,62197.0,2.0,No
+80,33.0,F,HR,Karachi,Bachelor,12.5,114264.0,1.0,No
+81,39.0,Female,HR,  lahore  ,Master,4.3,67899.0,3.0,No
+82,30.0,F,Marketing,Lahore,Bachelor,11.4,136073.0,5.0,No
+83,32.0,female,Finance,Karachi,High School,10.6,79952.0,5.0,No
+84,32.0,female,Marketing,Multan,Bachelor,9.8,90201.0,1.0,No
+85,25.0,Female,Finance,Islamabad,High School,13.0,,2.0,No
+86,39.0,F,Finance,Peshawar,High School,10.5,83276.0,1.0,Yes
+87,31.0,Male,Sales,Multan,Master,11.0,54941.0,2.0,Yes
+88,35.0,male,Engineering,Multan,Bachelor,10.5,77257.0,3.0,No
+89,39.0,M,Marketing,Islamabad,Bachelor,9.4,79110.0,2.0,No
+90,39.0,male,HR,Karachi,Bachelor,0.9,45881.0,1.0,Yes
+91,40.0,female,Sales,Karachi,High School,8.3,,3.0,No
+92,34.0,male,Sales,Multan,Bachelor,5.8,61445.0,1.0,No
+93,32.0,M,HR,Karachi,Master,2.9,103109.0,2.0,No
+94,34.0,F,Marketing,Karachi,Bachelor,14.7,80865.0,1.0,No
+95,22.0,female,Sales,  lahore  ,PhD,14.9,72930.0,1.0,No
+96,23.0,female,Sales,Peshawar,Bachelor,13.4,,3.0,No
+97,24.0,Male,Sales,Islamabad,Bachelor,9.0,85578.0,,No
+98,,male,HR,Multan,Master,13.4,95420.0,4.0,Yes
+99,38.0,F,Sales,Islamabad,Master,8.0,55007.0,1.0,No
+100,28.0,Male,HR,  lahore  ,Master,8.8,53960.0,1.0,No
+101,32.0,Male,HR,Lahore,PhD,3.6,107617.0,2.0,No
+102,45.0,Male,HR,Karachi,Master,9.6,69692.0,4.0,No
+103,32.0,female,Marketing,Multan,Master,8.2,,4.0,Yes
+104,41.0,Female,HR,Karachi,High School,2.8,91095.0,5.0,Yes
+105,28.0,female,Marketing,Lahore,Master,7.8,91584.0,2.0,No
+106,33.0,Female,Marketing,Peshawar,Bachelor,7.7,41732.0,1.0,No
+107,27.0,female,Finance,  lahore  ,Bachelor,15.2,85737.0,1.0,Yes
+108,32.0,M,Marketing,Islamabad,Master,11.6,98390.0,1.0,No
+109,42.0,female,HR,Islamabad,PhD,8.0,89360.0,1.0,No
+110,21.0,M,HR,  lahore  ,PhD,9.0,95800.0,5.0,No
+111,,male,Engineering,Lahore,Bachelor,8.2,,2.0,No
+112,37.0,F,HR,Multan,Master,7.2,88276.0,5.0,Yes
+113,30.0,male,Sales,Peshawar,Master,3.7,72435.0,3.0,No
+114,23.0,M,Finance,Islamabad,Bachelor,7.4,,3.0,No
+115,36.0,Male,Finance,Islamabad,High School,5.0,101764.0,3.0,No
+116,31.0,Female,Sales,Karachi,High School,3.0,116982.0,5.0,No
+117,37.0,Male,Marketing,  lahore  ,Master,10.0,124859.0,1.0,No
+118,35.0,Male,Sales,Peshawar,Bachelor,9.6,112870.0,1.0,No
+119,48.0,female,Marketing,  lahore  ,PhD,0.9,77257.0,3.0,Yes
+120,33.0,M,Sales,Lahore,Bachelor,7.5,88818.0,,No
+121,27.0,female,HR,Islamabad,PhD,12.0,99171.0,3.0,No
+122,36.0,female,Marketing,Islamabad,Bachelor,12.2,83029.0,4.0,No
+123,37.0,F,Marketing,Islamabad,Master,12.1,83269.0,3.0,No
+124,46.0,M,HR,  lahore  ,High School,8.2,100594.0,,No
+125,42.0,M,Finance,Lahore,Bachelor,4.6,78518.0,2.0,No
+126,38.0,Male,Marketing,Multan,Master,3.7,61768.0,4.0,Yes
+127,,F,Engineering,Islamabad,Master,9.4,69638.0,2.0,No
+128,25.0,M,Marketing,Peshawar,Master,9.5,95848.0,,No
+129,30.0,male,Marketing,Karachi,High School,13.1,80075.0,3.0,No
+130,28.0,M,Engineering,Karachi,Bachelor,12.4,88505.0,4.0,Yes
+131,32.0,F,Marketing,Islamabad,High School,7.5,96752.0,4.0,No
+132,24.0,M,Finance,Islamabad,High School,3.0,70629.0,3.0,No
+133,40.0,Female,Finance,Multan,Master,6.7,98906.0,2.0,No
+134,33.0,M,Marketing,  lahore  ,Master,8.9,89471.0,2.0,No
+135,23.0,Male,Marketing,Peshawar,Master,7.2,49130.0,3.0,No
+136,27.0,Male,Engineering,Islamabad,Master,5.7,116058.0,2.0,No
+137,38.0,Female,Marketing,  lahore  ,Master,9.0,67481.0,4.0,No
+138,42.0,M,Engineering,  lahore  ,Master,6.0,,2.0,No
+139,51.0,male,HR,Peshawar,High School,5.5,53874.0,4.0,Yes
+140,58.0,F,Engineering,Karachi,Bachelor,9.2,54474.0,4.0,No
+141,38.0,F,Engineering,Peshawar,Bachelor,6.4,81304.0,5.0,No
+142,27.0,Female,Sales,Lahore,Master,9.0,73154.0,1.0,No
+143,18.0,Female,Finance,Karachi,High School,9.1,71579.0,4.0,No
+144,37.0,male,Sales,Lahore,Bachelor,3.4,95493.0,1.0,No
+145,28.0,Female,Sales,  lahore  ,Master,6.1,88497.0,2.0,Yes
+146,32.0,Male,Finance,Islamabad,High School,13.8,87901.0,1.0,No
+147,30.0,female,HR,Multan,Bachelor,3.4,90246.0,1.0,No
+148,34.0,F,HR,Multan,Master,0.0,,1.0,No
+149,44.0,Female,Marketing,  lahore  ,Master,0.6,27301.0,1.0,Yes
+150,36.0,female,Engineering,Multan,Bachelor,8.1,,5.0,No
+151,34.0,Female,Sales,  lahore  ,Master,8.1,,1.0,No
+152,27.0,female,Marketing,Islamabad,Bachelor,7.5,80901.0,2.0,No
+153,22.0,F,Sales,Karachi,Master,12.9,79884.0,4.0,Yes
+154,,M,HR,Islamabad,Bachelor,0.0,106138.0,,No
+155,35.0,male,Finance,Peshawar,Bachelor,9.6,109691.0,5.0,No
+156,49.0,Male,Finance,Lahore,Bachelor,14.2,85069.0,1.0,Yes
+157,36.0,female,Engineering,Peshawar,Bachelor,3.5,67491.0,5.0,Yes
+158,43.0,Male,Marketing,Islamabad,Master,6.5,92129.0,4.0,Yes
+159,31.0,Male,Marketing,Multan,High School,5.0,66802.0,1.0,No
+160,26.0,Male,HR,Lahore,High School,4.4,79965.0,3.0,Yes
+161,27.0,F,Sales,Peshawar,Bachelor,6.7,104653.0,5.0,No
+162,29.0,F,Engineering,  lahore  ,Master,13.7,66056.0,2.0,No
+163,52.0,female,Marketing,Lahore,Master,15.3,100142.0,1.0,No
+164,28.0,male,Finance,Islamabad,PhD,6.7,96935.0,5.0,No
+165,42.0,Male,Sales,Islamabad,Bachelor,15.6,56130.0,5.0,Yes
+166,28.0,M,Marketing,Islamabad,Bachelor,8.1,104347.0,5.0,No
+167,42.0,M,Finance,Karachi,High School,15.0,97464.0,,No
+168,38.0,male,Finance,Lahore,Bachelor,7.6,82548.0,5.0,No
+169,,female,HR,Karachi,PhD,8.5,60942.0,3.0,No
+170,35.0,F,Sales,Islamabad,Master,9.5,,,No
+171,30.0,female,Engineering,Lahore,Bachelor,20.7,,4.0,Yes
+172,39.0,M,Finance,  lahore  ,Bachelor,11.4,,2.0,No
+173,31.0,M,Finance,Islamabad,Master,5.2,,3.0,No
+174,25.0,female,Marketing,Multan,Bachelor,11.9,90938.0,4.0,No
+175,25.0,M,Sales,Islamabad,High School,6.6,48956.0,5.0,Yes
+176,36.0,M,Sales,Multan,Bachelor,6.0,74898.0,2.0,No
+177,48.0,male,HR,Islamabad,High School,11.6,82741.0,2.0,No
+178,36.0,female,HR,Multan,Bachelor,8.1,141128.0,4.0,No
+179,34.0,Female,Sales,Multan,High School,9.1,45567.0,1.0,Yes
+180,,M,Marketing,Lahore,Bachelor,8.1,116800.0,3.0,No
+181,45.0,female,HR,  lahore  ,Bachelor,9.3,83746.0,4.0,No
+182,,female,Sales,Multan,Bachelor,9.7,90279.0,3.0,Yes
+183,32.0,Female,Sales,Lahore,Bachelor,0.3,82959.0,2.0,Yes
+184,44.0,female,HR,Islamabad,PhD,10.7,,5.0,No
+185,38.0,Male,Marketing,Karachi,Master,4.1,76158.0,2.0,Yes
+186,47.0,female,Finance,Islamabad,Bachelor,2.2,116351.0,4.0,No
+187,36.0,Male,HR,Islamabad,Bachelor,7.8,68588.0,3.0,No
+188,25.0,Female,Engineering,Multan,Master,8.3,,,No
+189,24.0,F,Finance,Islamabad,Bachelor,5.2,,3.0,No
+190,,Female,HR,Lahore,Bachelor,11.3,78494.0,1.0,No
+191,49.0,F,Engineering,  lahore  ,Master,2.6,53201.0,5.0,Yes
+192,34.0,F,HR,Islamabad,Bachelor,6.4,91376.0,4.0,No
+193,32.0,F,Sales,Peshawar,Master,5.7,116128.0,2.0,No
+194,47.0,Female,Engineering,Multan,Bachelor,7.8,78066.0,3.0,Yes
+195,26.0,Female,HR,Islamabad,Master,9.1,75078.0,4.0,No
+196,28.0,M,Finance,Peshawar,Bachelor,4.0,52135.0,2.0,No
+197,40.0,Female,Marketing,  lahore  ,Bachelor,10.9,74268.0,2.0,Yes
+198,32.0,F,Marketing,Peshawar,Bachelor,8.3,40180.0,3.0,No
+199,35.0,Male,HR,Peshawar,High School,0.4,,2.0,No
+200,34.0,F,Sales,Islamabad,Master,0.2,,4.0,No
+1,37.0,female,Finance,Lahore,Bachelor,9.5,79692.0,1.0,No
+2,27.0,M,Finance,Peshawar,Master,9.7,74476.0,3.0,No
+3,41.0,Male,Finance,Karachi,Bachelor,9.6,77414.0,3.0,No
